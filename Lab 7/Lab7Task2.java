@@ -100,8 +100,8 @@ class Lab7Task2
 {
 	public static void main(String[] args) 
 	{
-		Student std=new Student("abdul jabbar","MUET hostel","BE",2021,1600);
-		Staff st=new Staff("abdul jabbar","MUET hostel","Govt: School kamber",0.0);
+		Student std=new Student("Saqib","MUET hostel","BE",2021,1600);
+		Staff st=new Staff("Saqib","MUET hostel","Nawabshah High School",0.0);
 		System.out.println(std);
 		System.out.println(st);
 	}
